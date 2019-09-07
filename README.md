@@ -6,7 +6,7 @@ Most recent experience in a dual role of designer/developer of mobile applicatio
 
 Technical experience includes: Swift (5), MacOS, iOS, Xcode, AWS (S3, Cognito), app monetization, Apple Developer & App Connect ecosystem, Cocoapods, third-party API integration, Google Cloud (Firebase), JSON, XML, HTML, some JS stack (various), CSS, Apple APIs, networking, Agile development, Git, Subversion, Beanstalk, mapping/geocode, testing, SQL, Photoshop, Illustrator, XD, Sketch, prototyping, wireframing, story-boarding. Highly-proficient in Windows, productivity tools including G-Suite, Slack, MS Office.
 
-PROFESSIONAL EXPERIENCE
+<b>PROFESSIONAL EXPERIENCE</b>
 
 Revolve Labs ∙ Apr 2017 – Current | Savannah GA
 Director, Mobile Applications
