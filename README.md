@@ -1,4 +1,4 @@
-SUMMARY
+<b>SUMMARY</b>
 
 Senior technology professional possessing experience in software engineering, management & recruitment, and business strategy. Seeking role in software development or team management – local or remote. Willing to travel up to 25%.
 
