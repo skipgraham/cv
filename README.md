@@ -27,7 +27,6 @@ Westcar Consulting Group ∙ Dec 1997- Aug 2005 | Savannah GA
 Founding Partner
 
 Software engineering & technology consulting firm delivering solutions for leadership & organizational development, food safety & processing, and other various software integration & implementation projects. Technology partner to Korn-Ferry delivering solutions to enterprise clients. Managed technical consulting staff and worked as lead consultant.
-
  
 Omnis Software ∙ Jan 1994 – Dec 1997 | San Francisco CA
 Director, Professional Services
