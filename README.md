@@ -1,14 +1,17 @@
 <b>SUMMARY</b>
 
-Senior technology professional possessing experience in software engineering, management & recruitment, and business strategy. Seeking role in software development or team management – local or remote. Willing to travel up to 25%.
+Senior technology professional with over 30 years of experience. My company <a href="http://www.delegaldigital.com">Delegal Digital</a> provides services in web design and development, SEO, content marketing, and digital strategy. 
 
-Most recent experience in a dual role of designer/developer of mobile applications and director of operations in a boutique technology company. Managed day-to-day operations and contributed to product strategy, vendor management, and talent acquisition. Also, contributed significantly as a developer on multiple iOS applications utilizing Apple dev ecosystem and many APIs including AWS and Google Cloud. 
-
-Technical experience includes: Swift (5), MacOS, iOS, Xcode, AWS (S3, Cognito), app monetization, Apple Developer & App Connect ecosystem, Cocoapods, third-party API integration, Google Cloud (Firebase), JSON, XML, HTML, some JS stack (various), CSS, Apple APIs, networking, Agile development, Git, Subversion, Beanstalk, mapping/geocode, testing, SQL, Photoshop, Illustrator, XD, Sketch, prototyping, wireframing, story-boarding. Highly-proficient in Windows, productivity tools including G-Suite, Slack, MS Office.
+My technical experience includes: Wordpress, Swift, MacOS, iOS, Xcode, AWS (S3, Cognito), app monetization, Apple Developer & App Connect ecosystem, Cocoapods, third-party API integration, Google Cloud (Firebase), JSON, XML, HTML, some JS stack (various), CSS, Apple APIs, networking, Agile development, Git, Subversion, Beanstalk, mapping/geocode, testing, SQL, Photoshop, Illustrator, XD, Sketch, prototyping, wireframing, story-boarding. Highly-proficient in Windows, productivity tools including G-Suite, Slack, MS Office.
 
 <b>PROFESSIONAL EXPERIENCE</b>
 
-Revolve Labs ∙ Apr 2017 – Current | Savannah GA
+Delegal Digital ∙ Aug 2019 – Present | Savannah GA
+President, Co-Founder
+
+Manage day-to-day operations. Contrinute to all aspects of the business including design, development, client management, and business development.
+
+Revolve Labs ∙ Apr 2017 – Aug 2019 | Savannah GA
 Director, Mobile Applications
 
 Responsible for day-to-day management of engineering and product team. Contribute daily as a software engineer on multiple iOS projects/apps deployed to App Store. Development in Swift using third-party backend APIs, AWS and  Google Cloud. Secondary maintenance on apps that reside in Objective-C (iOS) and Java (Android). Drive product direction and work directly with marketing to steer functionality to user demand.
